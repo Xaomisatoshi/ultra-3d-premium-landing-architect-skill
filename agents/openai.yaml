@@ -1,0 +1,13 @@
+interface:
+  display_name: Ultra 3D Premium Landing Architect
+  short_description: Interaktive Premium-3D-Landingpages aus kurzen Briefings
+  brand_color: '#16B8D5'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
